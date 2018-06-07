@@ -161,7 +161,7 @@
                 </network>
                 <wait>
                   <http>
-                    <url>http://admin:moo@${FCREPO_HOST}:${FCREPO_PORT}/fcrepo/rest</url>
+                    <url>http://fedoraAdmin:moo@${FCREPO_HOST}:${FCREPO_PORT}/fcrepo/rest</url>
                   </http>
                   <time>120000</time>
                 </wait>
